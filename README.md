@@ -24,6 +24,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 3](https://github.com/alexdemanuel/Practica-03-Lamp-Stack-2Maquinas-Vagrant).
   - [Práctica 4](https://github.com/alexdemanuel/Practica-04-2ServWeb-1BD).
   - [Práctica 6](https://github.com/alexdemanuel/Practica-06-Balanceador).
+  - [Práctica 7](https://github.com/alexdemanuel/Practica-07-Wordpress-vagrant).
 
 - [Alexstrachan](https://github.com/Alexstrachan)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3AAlexstrachan+is%3Aopen).
