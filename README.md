@@ -80,3 +80,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Contribuciones realizadas al glosario](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3ATonolg+is%3Aclosed).
   - [Práctica 2](https://github.com/Tonolg/practica02-LAMP).
   - [Práctica 3](https://github.com/Tonolg/practica03-lamp).
+  - [Práctica 4](https://github.com/Tonolg/practica04-apache).
+  - [Práctica 6](https://github.com/Tonolg/practica06).
+  - [Práctica 7](https://github.com/Tonolg/practica07).
+  
