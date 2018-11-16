@@ -15,6 +15,8 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 1](https://github.com/Aka17Maanuh/Practica1).
   - [Práctica 2](https://github.com/Aka17Maanuh/Practica2).
   - [Práctica 3](https://github.com/Aka17Maanuh/Practica3).
+  - [Práctica 4](https://github.com/Aka17Maanuh/Practica4).
+  - [Práctica 6](https://github.com/Aka17Maanuh/Practica6).
 
 - [alexdemanuel](https://github.com/alexdemanuel)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3Aalexdemanuel+is%3Aopen).
