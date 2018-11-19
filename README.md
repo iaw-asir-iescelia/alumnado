@@ -42,6 +42,8 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 2](https://github.com/indamarin/practica02).
   - [Práctica 3](https://github.com/indamarin/practica03).
   - [Práctica 4](https://github.com/indamarin/practica04).  
+  - [Práctica 6](https://github.com/indamarin/practica06).  
+  - [Práctica 7](https://github.com/indamarin/practica07).    
 
 - [julio2moreno](https://github.com/julio2moreno)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3Ajulio2moreno+is%3Aopen).
