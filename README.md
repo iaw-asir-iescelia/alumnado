@@ -56,6 +56,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 3](https://github.com/julio2moreno/Practica-03-LAMP_2niveles).
   - [Práctica 4](https://github.com/julio2moreno/Practica-04-2VM_Apache).
   - [Práctica 6](https://github.com/julio2moreno/Practica-06-Balanceador_Apache).
+  - [Práctica 7](https://github.com/julio2moreno/Practica-07-wordpress).
 
 - [kristonita18](https://github.com/kristonita18)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3Akristonita18+is%3Aopen).
