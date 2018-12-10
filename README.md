@@ -87,6 +87,11 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 3](https://github.com/Miguelico93/practica03).
   - [Práctica 4](https://github.com/Miguelico93/practica04).
   - [Práctica 6](https://github.com/Miguelico93/practica06).
+  - [Práctica 7](https://github.com/Miguelico93/Practica07).
+  - [Práctica 9](https://github.com/Miguelico93/Practica09).
+  - [Práctica 10](https://github.com/Miguelico93/Practica-10).
+  - [Práctica 11](https://github.com/Miguelico93/Practica-11).
+  - [Práctica 12](https://github.com/Miguelico93/Practica12).
 
 - [Tonolg](https://github.com/Tonolg)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3ATonolg+is%3Aopen).
