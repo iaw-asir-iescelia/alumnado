@@ -36,6 +36,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 2](https://github.com/Alexstrachan/Practica02).
   - [Práctica 3](https://github.com/Alexstrachan/Practica03).
   - [Práctica 4](https://github.com/Alexstrachan/Practica04).
+  - [Práctica 7](https://github.com/Alexstrachan/Practica07).  
 
 - [indamarin](https://github.com/indamarin)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3Aindamarin+is%3Aopen).
@@ -47,6 +48,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 6](https://github.com/indamarin/practica06).  
   - [Práctica 7](https://github.com/indamarin/practica07).
   - [Práctica 9](https://github.com/indamarin/practica09)
+  - [Práctica 10](https://github.com/indamarin/practica10)  
 
 - [julio2moreno](https://github.com/julio2moreno)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3Ajulio2moreno+is%3Aopen).
@@ -57,6 +59,11 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 4](https://github.com/julio2moreno/Practica-04-2VM_Apache).
   - [Práctica 6](https://github.com/julio2moreno/Practica-06-Balanceador_Apache).
   - [Práctica 7](https://github.com/julio2moreno/Practica-07-wordpress).
+  - [Práctica 9](https://github.com/julio2moreno/Practica-09-Auditoria_Seguridad_Wordpress)
+  - [Práctica 10](https://github.com/julio2moreno/Practica-10-Wordpress_AWS)
+  - [Práctica 11](https://github.com/julio2moreno/Practica-11-Wordpress_bitnami)
+  - [Práctica 12](https://github.com/julio2moreno/Practica-12-Drupal_Bitnami)
+  - [Práctica 13](https://github.com/julio2moreno/Practica-13-Instaladores_Bitnami)
 
 - [kristonita18](https://github.com/kristonita18)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3Akristonita18+is%3Aopen).
