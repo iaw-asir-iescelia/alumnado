@@ -104,4 +104,5 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 4](https://github.com/Tonolg/practica04-apache).
   - [Práctica 6](https://github.com/Tonolg/practica06).
   - [Práctica 7](https://github.com/Tonolg/practica07).
-  
+  - [Práctica 9](https://github.com/Tonolg/practica09-wpscan).
+
