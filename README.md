@@ -41,6 +41,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 2](https://github.com/Alexstrachan/Practica02).
   - [Práctica 3](https://github.com/Alexstrachan/Practica03).
   - [Práctica 4](https://github.com/Alexstrachan/Practica04).
+  - [Práctica 6](https://github.com/Alexstrachan/Practica06).
   - [Práctica 7](https://github.com/Alexstrachan/Practica07).
   - [Práctica 8](https://github.com/Alexstrachan/practica08).
   - [Práctica 9](https://github.com/Alexstrachan/Practica09).
