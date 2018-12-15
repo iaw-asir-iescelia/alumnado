@@ -29,8 +29,10 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   - [Práctica 6](https://github.com/alexdemanuel/Practica-06-Balanceador).
   - [Práctica 7](https://github.com/alexdemanuel/Practica-07-Wordpress-vagrant).
   - [Práctica 9](https://github.com/alexdemanuel/Practica-09-WPScan).
+  - [Práctica 10](https://github.com/alexdemanuel/Practica-10-WP-Amazon).
   - [Práctica 11](https://github.com/alexdemanuel/Practica-11-WP-Bitnami).
   - [Práctica 12](https://github.com/alexdemanuel/Practica-12-Drupal).
+  - [Práctica 13](https://github.com/alexdemanuel/Practica-13-Moodle).
 
 - [Alexstrachan](https://github.com/Alexstrachan)
   - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3AAlexstrachan+is%3Aopen).
