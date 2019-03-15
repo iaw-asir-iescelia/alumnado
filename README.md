@@ -14,7 +14,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   
 ### 2ª Evaluación
 - [https://acautico12.github.io/](https://acautico12.github.io/).
-- [Introducción a PHP](https://github.com/acautico12/practicas-php).
+- [Prácticas PHP](https://github.com/acautico12/practicas-php).
 
 ## `Aka17Maanuh`
 - [Aka17Maanuh](https://github.com/Aka17Maanuh)
@@ -31,6 +31,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
  
 ### 2ª Evaluación
 - [https://Aka17Maanuh.github.io/](https://Aka17Maanuh.github.io/).
+- [Proyecto PHP](https://github.com/Aka17Maanuh/Proyecto).
 
 ## `alexdemanuel`
 - [alexdemanuel](https://github.com/alexdemanuel)
@@ -52,7 +53,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 
 ### 2ª Evaluación
 - [https://alexdemanuel.github.io/](https://alexdemanuel.github.io/).
-- [Introducción a PHP](https://github.com/alexdemanuel/Practicas-PHP).
+- [Prácticas PHP](https://github.com/alexdemanuel/Practicas-PHP).
 
 ## `Alexstrachan`
 - [Alexstrachan](https://github.com/Alexstrachan)
@@ -92,6 +93,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 
 ### 2ª Evaluación
 - [https://indamarin.github.io/](https://indamarin.github.io/).
+- [Prácticas PHP](https://github.com/indamarin/practica-php).
 - [Proyecto PHP](https://github.com/indamarin/proyectoFinal-php).
 
 ## `julio2moreno`
@@ -114,7 +116,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 
 ### 2ª Evaluación
 - [https://julio2moreno.github.io/](https://julio2moreno.github.io/).
-- [Introducción a PHP](https://github.com/julio2moreno/Pracicas-php).
+- [Prácticas PHP](https://github.com/julio2moreno/Pracicas-php).
 
 
 ## `kristonita18`
@@ -182,6 +184,5 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
   
 ### 2ª Evaluación
 - [https://Tonolg.github.io/](https://Tonolg.github.io/).
-- [Introducción a PHP](https://github.com/Tonolg/).
-  
-
+- [Prácticas PHP](https://github.com/Tonolg/).
+- [Proyecto PHP](https://github.com/Tonolg/proyecto-php).
