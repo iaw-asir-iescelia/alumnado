@@ -134,11 +134,22 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 - [Contribuciones realizadas al glosario](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3Akristonita18+is%3Aclosed).
 
 ### 1ª Evaluación
+- [Práctica 1](https://github.com/kristonita18/practica1).
+- [Práctica 2](https://github.com/kristonita18/practica2).
+- [Práctica 3](https://github.com/kristonita18/practica3).
 - [Práctica 4](https://github.com/kristonita18/p4).
+- [Práctica 6](https://github.com/kristonita18/practica6).
+- [Práctica 7](https://github.com/kristonita18/practica7).
+- [Práctica 8](https://github.com/kristonita18/practica8).
+- [Práctica 9](https://github.com/kristonita18/practica9).
+- [Práctica 10](https://github.com/kristonita18/practica10).
+- [Práctica 11](https://github.com/kristonita18/practica11).
+- [Práctica 12](https://github.com/kristonita18/practica12).
 
 ### 2ª Evaluación
 - [https://kristonita18.github.io/](https://kristonita18.github.io/).
-- [Introducción a PHP](https://github.com/kristonita18/practicas--php).
+- [Prácticas PHP](https://github.com/kristonita18/practicas--php).
+- [Proyecto PHP](https://github.com/kristonita18/proyecto-fina-PHP-IAW).
 
 ## `luisminics`
 - [luisminics](https://github.com/luisminics)
