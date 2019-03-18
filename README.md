@@ -11,6 +11,14 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 - [Práctica 1](https://github.com/acautico12/practica01).
 - [Práctica 2](https://github.com/acautico12/practica02).
 - [Práctica 3](https://github.com/acautico12/practica03).
+- [Práctica 4](https://github.com/acautico12/practica04).
+- [Práctica 6](https://github.com/acautico12/practica06).
+- [Práctica 7](https://github.com/acautico12/practica07).
+- [Práctica 8](https://github.com/acautico12/practica08).
+- [Práctica 9](https://github.com/acautico12/practica09).
+- [Práctica 10](https://github.com/acautico12/practica10).
+- [Práctica 11](https://github.com/acautico12/practica11).
+- [Práctica 12](https://github.com/acautico12/practica12).
   
 ### 2ª Evaluación
 - [https://acautico12.github.io/](https://acautico12.github.io/).
@@ -128,7 +136,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 - [Práctica 4](https://github.com/kristonita18/p4).
 
 ### 2ª Evaluación
-- [https://indamarin.github.io/](https://kristonita18.github.io/).
+- [https://kristonita18.github.io/](https://kristonita18.github.io/).
 - [Introducción a PHP](https://github.com/kristonita18/practicas--php).
 
 ## `luisminics`
@@ -147,7 +155,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 - [https://luisminics.github.io/](https://luisminics.github.io/).
 
 
-## Miguelico93
+## `Miguelico93
 - [Miguelico93](https://github.com/Miguelico93)
 - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3AMiguelico93+is%3Aopen).
 - [Contribuciones realizadas al glosario](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3AMiguelico93+is%3Aclosed).
