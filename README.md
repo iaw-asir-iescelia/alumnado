@@ -82,7 +82,8 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 
 ### 2ª Evaluación
 - [https://Alexstrachan.github.io/](https://Alexstrachan.github.io/).
-
+- [Prácticas PHP](https://github.com/Alexstrachan/practicas-php).
+- [Proyecto PHP](https://github.com/Alexstrachan/practica-lamp-php).
 
 ## `indamarin`
 - [indamarin](https://github.com/indamarin)
