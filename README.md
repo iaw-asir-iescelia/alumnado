@@ -167,7 +167,7 @@ Repositorio con enlaces a las prácticas realizadas por el alumnado de IAW.
 - [https://luisminics.github.io/](https://luisminics.github.io/).
 
 
-## `Miguelico93
+## `Miguelico93`
 - [Miguelico93](https://github.com/Miguelico93)
 - [Contribuciones pendientes](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3AMiguelico93+is%3Aopen).
 - [Contribuciones realizadas al glosario](https://github.com/iaw-asir-iescelia/glosario/issues?utf8=%E2%9C%93&q=assignee%3AMiguelico93+is%3Aclosed).
